@@ -47,3 +47,4 @@ class Profesor extends Persona {
 }
 let miProfesor = new Profesor("Elena", 34, "mujer", "Historia", "alto");
 miProfesor.asignar();
+
